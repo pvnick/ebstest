@@ -1,0 +1,5 @@
+[global]
+ApplicationName=DEV_PROC_TEST
+DevToolsEndpoint=git.elasticbeanstalk.us-east-1.amazonaws.com
+EnvironmentName=staging
+Region=us-east-1
